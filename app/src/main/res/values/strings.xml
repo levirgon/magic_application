@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+    <string name="magic_des_1">This trick from David Blane is popular around the world. The magician takes 2 plastic coffee cups, cuts one in half, and fills it with coins. Then he makes a tiny hole in the bottom of the big cup, puts a sponge inside, and places the cup with the coins on it. Now all he needs to do is place his finger inside the hole. The small cup will go up, revealing the coins, and the coffee will be absorbed by the sponge. The rest is just acting!</string>
+    <string name="magic_des_2">This trick, performed by James More on Britain’s Got Talent, has a simple explanation. The magician has a special construction underneath his clothes. When he falls on the \"sharp\" sword, its tip hides and he balances. On his chest is a mechanism that pushes a fake sword out. This all makes it look like the magician has been impaled on the sword.</string>
+    <string name="mg_des_3">The magician uses a special card holder and puts it on the back of his hand. With a dexterous movement, he pulls cards \"out of thin air.\" Some magicians can do this without a device, but they have to really master their skills so as not to get caught.</string>
+    <string name="mg_des_4">This trick requires a lot of preparation and sleight of hand. The magician exchanges a bullet signed by an audience member with a wax one, loading duplicates into his gun. When the gun fires, the wax bullet melts down, and the spray of hot wax puts holes in the glass. The magician gets the original bullet out of its shell, concealing it in his mouth until the reveal</string>
+</resources>
